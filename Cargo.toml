@@ -2,4 +2,6 @@
 
 members = [
     "01_hello_world",
+    "02_guessing_game/02_guessing_game_once",
+    "02_guessing_game/02_guessing_game_multi",
 ]
