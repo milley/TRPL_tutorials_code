@@ -1,3 +1,4 @@
+#![allow(unused_variables, dead_code)]
 #[derive(Debug)]
 struct Rectangle {
     width: u32,
@@ -21,9 +22,10 @@ impl Rectangle {
     }
 }
 
+
 fn main() {
     let s = Rectangle::square(20);
-    
+
     let rect = Rectangle {
         width: 30,
         height: 50,

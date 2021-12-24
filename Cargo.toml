@@ -14,4 +14,6 @@ members = [
     "04_ownership/04_slice",
     "05_struct/05_define_struct",
     "05_struct/05_struct_method",
+    "06_pattern_matching/06_enum_type",
+    "06_pattern_matching/06_pattern",
 ]
