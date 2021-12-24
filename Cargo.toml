@@ -21,4 +21,6 @@ members = [
     "08_collections/08_vector",
     "08_collections/08_string",
     "08_collections/08_hashmap",
+    "09_error_handling/09_panic_error_handling",
+    "09_error_handling/09_error_with_result",
 ]
