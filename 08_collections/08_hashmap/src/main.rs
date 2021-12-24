@@ -1,3 +1,4 @@
+#![allow(unused_variables, unused_imports)]
 use std::{collections::HashMap, hash::Hash};
 
 fn main() {
