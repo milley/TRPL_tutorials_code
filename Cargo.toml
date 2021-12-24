@@ -9,4 +9,7 @@ members = [
     "03_concept/03_compound_types",
     "03_concept/03_functions",
     "03_concept/03_control_flow",
+    "04_ownership/04_owner",
+    "04_ownership/04_reference",
+    "04_ownership/04_slice",
 ]
