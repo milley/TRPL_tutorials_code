@@ -4,4 +4,9 @@ members = [
     "01_hello_world",
     "02_guessing_game/02_guessing_game_once",
     "02_guessing_game/02_guessing_game_multi",
+    "03_concept/03_variables",
+    "03_concept/03_types",
+    "03_concept/03_compound_types",
+    "03_concept/03_functions",
+    "03_concept/03_control_flow",
 ]
