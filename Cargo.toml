@@ -16,4 +16,6 @@ members = [
     "05_struct/05_struct_method",
     "06_pattern_matching/06_enum_type",
     "06_pattern_matching/06_pattern",
+    "07_managing_project/07_my_project",
+    "07_managing_project/07_use_scope",
 ]
