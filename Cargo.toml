@@ -18,4 +18,7 @@ members = [
     "06_pattern_matching/06_pattern",
     "07_managing_project/07_my_project",
     "07_managing_project/07_use_scope",
+    "08_collections/08_vector",
+    "08_collections/08_string",
+    "08_collections/08_hashmap",
 ]
