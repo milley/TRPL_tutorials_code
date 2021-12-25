@@ -1,4 +1,4 @@
-#![allow(dead_code)]
+#![allow(unused_variables, dead_code)]
 
 use std::thread;
 use std::time::Duration;
