@@ -8,6 +8,12 @@ fn main() {
     let simulated_random_number = 7;
 
     generate_workout(simulated_user_specified_value, simulated_random_number);
+
+
+    let example_closure = |x| x;
+
+    let s = example_closure(String::from("hello"));
+    // let s = example_closure(String::from(5));
 }
 
 fn simulated_expensive_calculation(intensity: u32) -> u32 {
