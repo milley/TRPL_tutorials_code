@@ -23,4 +23,10 @@ members = [
     "08_collections/08_hashmap",
     "09_error_handling/09_panic_error_handling",
     "09_error_handling/09_error_with_result",
+    "10_generic_types/10_extract_function",
+    "10_generic_types/10_generic_function",
+    "10_generic_types/10_trait_demo",
+    "10_generic_types/10_trait_default_impl_demo",
+    "10_generic_types/10_trait_default_impl_call_demo",
+    "10_generic_types/10_lifetime_demo1",
 ]
