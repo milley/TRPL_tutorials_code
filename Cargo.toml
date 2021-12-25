@@ -33,4 +33,5 @@ members = [
     "12_command_program/12_mini_grep",
     "13_functional_features/13_closure_demo",
     "13_functional_features/13_closure_with_generic_params",
+    "13_functional_features/13_closure_iter",
 ]
