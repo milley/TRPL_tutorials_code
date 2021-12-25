@@ -1,3 +1,4 @@
+#![allow(dead_code)]
 use std::fs::File;
 use std::io::{self, Read};
 use std::error::Error;
@@ -62,7 +63,7 @@ fn main() -> Result<(), Box<dyn Error>> {
             Err(_) => continue,
         };
 
-        let guess = Guess::new(guess);
+        let _guess = Guess::new(guess);
 
         // ...
     }
