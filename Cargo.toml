@@ -29,4 +29,5 @@ members = [
     "10_generic_types/10_trait_default_impl_demo",
     "10_generic_types/10_trait_default_impl_call_demo",
     "10_generic_types/10_lifetime_demo1",
+    "11_automic_test/11_test_adder",
 ]
