@@ -31,4 +31,5 @@ members = [
     "10_generic_types/10_lifetime_demo1",
     "11_automic_test/11_test_adder",
     "12_command_program/12_mini_grep",
+    "13_functional_features/13_closure_demo",
 ]
