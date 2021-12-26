@@ -39,4 +39,5 @@ members = [
     "14_crate_io/14_export_with_pub_use",
     "14_crate_io/14_adder",
     "14_crate_io/14_add_one",
+    "15_smart_point/15_box_demo",
 ]
