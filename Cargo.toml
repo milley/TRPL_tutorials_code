@@ -49,4 +49,5 @@ members = [
     "16_concurrency_demo/16_thread_demo",
     "16_concurrency_demo/16_channel_demo",
     "16_concurrency_demo/16_mutex_demo",
+    "17_object_oriented_demo/17_encapsulation_demo",
 ]
