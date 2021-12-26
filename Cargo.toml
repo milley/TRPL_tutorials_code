@@ -53,4 +53,5 @@ members = [
     "17_object_oriented_demo/17_oo_design_pattern",
     "17_object_oriented_demo/17_oo_state_as_type",
     "18_pattern_and_match/18_condition_if_let_demo",
+    "18_pattern_and_match/18_match_demo",
 ]
