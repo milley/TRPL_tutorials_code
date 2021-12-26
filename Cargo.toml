@@ -47,4 +47,5 @@ members = [
     "15_smart_point/15_reference_cycle_demo",
     "15_smart_point/15_weak_trait_demo",
     "16_concurrency_demo/16_thread_demo",
+    "16_concurrency_demo/16_channel_demo",
 ]
