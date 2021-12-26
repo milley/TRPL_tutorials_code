@@ -51,4 +51,5 @@ members = [
     "16_concurrency_demo/16_mutex_demo",
     "17_object_oriented_demo/17_encapsulation_demo",
     "17_object_oriented_demo/17_oo_design_pattern",
+    "17_object_oriented_demo/17_oo_state_as_type",
 ]
