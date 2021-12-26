@@ -1,3 +1,4 @@
+#![allow(unused_variables, dead_code)]
 use std::cell::RefCell;
 use std::rc::{Rc, Weak};
 

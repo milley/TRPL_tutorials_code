@@ -1,3 +1,4 @@
+#![allow(unused_variables, unused_imports)]
 use std::thread;
 use std::time::Duration;
 
