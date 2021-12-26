@@ -35,4 +35,8 @@ members = [
     "13_functional_features/13_closure_with_generic_params",
     "13_functional_features/13_closure_iter",
     "13_functional_features/13_mini_grep_closure",
+    "14_crate_io/14_my_crate",
+    "14_crate_io/14_export_with_pub_use",
+    "14_crate_io/14_adder",
+    "14_crate_io/14_add_one",
 ]
