@@ -43,4 +43,5 @@ members = [
     "15_smart_point/15_deref_trait_demo",
     "15_smart_point/15_drop_trait_demo",
     "15_smart_point/15_rc_trait_demo",
+    "15_smart_point/15_refcell_trait_demo",
 ]
