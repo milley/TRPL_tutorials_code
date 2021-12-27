@@ -60,4 +60,5 @@ members = [
     "19_advance_features_demo/19_macro_demo",
     "19_advance_features_demo/hello_macro",
     "19_advance_features_demo/hello_macro_derive",
+    "20_multi_thread_web_server/hello",
 ]
